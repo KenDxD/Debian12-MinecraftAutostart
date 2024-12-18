@@ -1,7 +1,7 @@
 # Debian12-MinecraftAutostart
-using systemd autostart
+Using systemd autostart. Can be used on Debian based and/or with systemd distro.
 
-Requirement
+Requirements
 *  sudo account (can use root)
 *  Screen `sudo apt install -y screen`
 *  Adoptium Temurin 21 JDK
