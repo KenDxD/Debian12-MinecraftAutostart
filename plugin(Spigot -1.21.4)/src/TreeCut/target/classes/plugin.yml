@@ -1,0 +1,8 @@
+name: TreeCut
+version: '1.0-SNAPSHOT'
+main: org.keon.treeCut.TreeCut
+api-version: '1.21'
+commands:
+  treecut:
+    description: Cuts down a tree when a log or leaf block is broken.
+    usage: /<command>

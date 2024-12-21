@@ -1,0 +1,11 @@
+name: LoginSystem
+version: '1.0-SNAPSHOT'
+main: org.keon.loginSystem.LoginSystem
+api-version: '1.21'
+commands:
+  register:
+    description: Register a new player with a password.
+    usage: /register <password>
+  login:
+    description: Log in with your password.
+    usage: /login <password>
